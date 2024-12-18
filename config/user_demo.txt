@@ -1,3 +1,74 @@
+📺Australia,#genre#
+2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8$!白名单接口
+ABC News Australia (720p),https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8$!白名单接口
+10 Bold (720p) [Geo-blocked],https://i.mjh.nz/10bold-nsw.m3u8$!白名单接口
+3AW Melbourne (1080p),https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8$!白名单接口
+10 Peach (720p) [Geo-blocked],https://i.mjh.nz/10peach-nsw.m3u8$!白名单接口
+Expo Channel (360p),https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8$!白名单接口
+Channel 10 (720p) [Geo-blocked],https://i.mjh.nz/10-nsw.m3u8$!白名单接口
+Channel 44 (480p),https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8$!白名单接口
+C31 Melbourne (240p),https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8$!白名单接口
+JonmoBhumi TV (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8$!白名单接口
+Channel 7 (720p) [Geo-blocked],https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8$!白名单接口
+Real Families (Australia) (720p),https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8$!白名单接口
+MIS Televizija (720p) [Not 24/7],https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8$!白名单接口
+Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8$!白名单接口
+Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8$!白名单接口
+Sky News Extra 1 (540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8$!白名单接口
+6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8$!白名单接口
+Racing.com (720p),https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8$!白名单接口
+Sky Racing 1 (720p) [Geo-blocked],https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8$!白名单接口
+Sky Racing 2 (720p) [Geo-blocked],https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8$!白名单接口
+TVSN (1080p),https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8$!白名单接口
+ABC Me (720p),https://c.mjh.nz/abc-me.m3u8$!白名单接口
+ABC TV Melbourne (720p),https://c.mjh.nz/abc-vic.m3u8$!白名单接口
+ABC TV Hobart (720p),https://c.mjh.nz/abc-tas.m3u8$!白名单接口
+ABC TV Sydney (720p),https://c.mjh.nz/abc-nsw.m3u8$!白名单接口
+ABC TV Adelaide (720p),https://c.mjh.nz/abc-sa.m3u8$!白名单接口
+ABC TV Canberra (720p),https://c.mjh.nz/abc-act.m3u8$!白名单接口
+ABC TV Plus (720p),https://c.mjh.nz/abc-tv-plus.m3u8$!白名单接口
+ABC TV Darwin (720p),https://c.mjh.nz/abc-nt.m3u8$!白名单接口
+ABC TV Perth (720p),https://c.mjh.nz/abc-wa.m3u8$!白名单接口
+InWild (720p),https://inwild-samsungau.amagi.tv/playlist.m3u8$!白名单接口
+EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8$!白名单接口
+Sky Thoroughbred Central (720p) [Geo-blocked],https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8$!白名单接口
+ABC TV Brisbane (720p),https://c.mjh.nz/abc-qld.m3u8$!白名单接口
+Angel TV Australia (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/playlist.m3u8$!白名单接口
+ADH TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8$!白名单接口
+The Filipino Channel Guam (1080p),https://tfcguam-abscbn-ono.amagi.tv/index.m3u8$!白名单接口
+9Gem (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8$!白名单接口
+Channel 9 Sydney (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8$!白名单接口
+9Rush (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8$!白名单接口
+Ticker News (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8$!白名单接口
+9Go! (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8$!白名单接口
+Channel 9 Melbourne (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8$!白名单接口
+9Life (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8$!白名单接口
+Ausbiz TV,https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8$!白名单接口
+TBN Inspire (720p),https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8$!白名单接口
+Real Life,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8$!白名单接口
+Horse and Country Free,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8$!白名单接口
+Guidance TV Australia (720p) [Not 24/7],https://ythls.armelin.one/channel/UC81VkX0QeICZw7o2jMwGThg.m3u8$!白名单接口
+Kordia TV (1080p),https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8$!白名单接口
+Juice TV (1080p) [Not 24/7],https://juicex.nz/hls/mystream.m3u8$!白名单接口
+Tastemade Australia (1080p),https://tmint-aus-samsungau.amagi.tv/playlist.m3u8$!白名单接口
+Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8$!白名单接口
+Bloomberg TV Australia (270p),https://bloomberg.com/media-manifest/streams/aus.m3u8$!白名单接口
+Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8$!白名单接口
+Rialto (1080p),https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8$!白名单接口
+AUS Tamil TV (720p) [Not 24/7],https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8$!白名单接口
+Folk Klub (720p),http://tv1.intv.mk:1935/live2/folkklub/index.m3u8$!白名单接口
+INTV Australia (720p),http://tv1.intv.mk:1935/live/intv/index.m3u8$!白名单接口
+TV5Monde Pacifique (1080p) [Geo-blocked],https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8$!白名单接口
+Toon Goggles en Espanol,https://stream.ads.ottera.tv/playlist.m3u8?network_id=771$!白名单接口
+Hope Channel Australia (1080p),https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8$!白名单接口
+РТР Планета Азия,https://player.smotrim.ru/iframe/stream/live_id/63254$!白名单接口
+Swamiji TV Australian (1080p) [Not 24/7],https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8$!白名单接口
+TVE Internacional Asia-Oceania [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8$!白名单接口
+BBC News Asia Pacific (720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8$!白名单接口
+M4TV Malayalam (1080p) [Not 24/7],https://app.m4stream.live/mfourmalayalamhls/live.m3u8$!白名单接口
+Race Central TV (720p) [Not 24/7],https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8$!白名单接口
+Travel & Food TV (720p),https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8$!白名单接口
+
 📺央视频道,#genre#
 CCTV-1
 CCTV-2
